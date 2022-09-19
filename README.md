@@ -1,6 +1,6 @@
 # A Greek Parliament Proceedings Dataset for Computational Linguistics and Political Analysis
 
-This repository includes the source code for the collection, cleaning and computational study of the [Greek Parliament Proceedings Dataset](https://zenodo.org/record/6626316). Detailed instructions and descriptions of all the scripts are included in the supplementary material.
+This repository includes the source code for the collection, cleaning and computational study of the [Greek Parliament Proceedings Dataset](https://zenodo.org/record/7005201). Detailed instructions and descriptions of all the scripts are included in the supplementary material.
 
 The dataset includes 1,280,918 speeches (rows) of Greek parliament members with a total volume of 2.12 GB, that were exported from 5,355 parliamentary sitting record files. They extend chronologically from early July 1989 up to late July 2020. The dataset consists of a .csv file and includes the following columns of data:
 - member_name: the official name of the parliament member who talked during a sitting.
